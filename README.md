@@ -29,7 +29,7 @@ Gesture Vox empowers users to:
 
 ---
 
-## 🔍 Why We Chose This Approach
+## 🔍 Why We Choose This Approach
 
 - Most real-life sign language expressions are for **entire words**, but due to **dataset limitations**, we adopted a **letter-by-letter translation** model. This allows flexibility and scalability in the early stage.
 - Users can build full words and sentences manually, which improves model accuracy and reduces misinterpretation.
