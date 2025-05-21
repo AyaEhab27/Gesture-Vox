@@ -1,4 +1,4 @@
-![Gesture Vox Logo](file:///E:/E_Dowenloads/Logo_image.png)  
+![Gesture Vox Logo]([file:///E:/E_Dowenloads/Logo_image.png](https://imgbox.com/3PfUIUAW))  
 # Gesture Vox 🗣️
 
 **Gesture Vox** is a smart cross-platform application that bridges the communication gap between hearing individuals and those who use sign language. It offers **real-time sign-to-text/audio translation**, and **text/audio-to-sign** translation using a 3D animated character. The system also includes a built-in chat, OCR scanning, and a gesture-based keyboard to support users in diverse contexts.
